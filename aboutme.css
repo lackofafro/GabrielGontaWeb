@@ -1,14 +1,10 @@
 body{
-    background-color: white;
+    background-color: #0d0d0d;
     font-family: Verdana;
-}
-header h1{
-    text-align: center;
+} 
+h1{
+    color: white;
     font-size: 50px;
-    font-weight: bold;
-    margin: 250px 0 0 0;
-}
-header h2{
-    font-size: 20px;
-    text-align: center;
+    text-align:left;
+    margin: 40px 0 40px 40px;
 }
